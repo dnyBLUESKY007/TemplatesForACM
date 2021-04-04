@@ -1,0 +1,5 @@
+# Plans
+
+- Modint
+- FFT
+- NTT
